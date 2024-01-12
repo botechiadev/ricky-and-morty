@@ -11,4 +11,4 @@ Api para treinar o uso de react com custom hook, styled-components e react route
 - uso de renderizacao condicional para troca de botoes
 
 # Resultado obtenido
-Deploy em surge: [DEPLOY]("[https://rick-and-morty-react.surge.sh")
+Deploy em surge: <a href="https://rick-and-morty-react.surge.sh" target="_blank">LINK DEPLOY</a>
